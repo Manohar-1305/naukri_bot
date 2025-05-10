@@ -24,7 +24,7 @@ DOWNLOAD_PATH = os.path.expanduser("~/Documents/Manohar_Pinnamshetty.pdf")
 
 # Naukri Credentials
 EMAIL = "manohar.shetty507@gmail.com"
-PASSWORD = "Manohar@1305"
+PASSWORD = "<own_password"
 
 # Email Notification Config (Use app password if using Gmail)
 SENDER_EMAIL = "tradingcontentdrive@gmail.com"
